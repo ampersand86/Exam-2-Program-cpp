@@ -4,6 +4,8 @@ using namespace std;
 //function template to print an array
 //works for multiple data types
 
+
+//comment 1 added
 template <class T>
 void printarray (T *a, const int n)
 {
