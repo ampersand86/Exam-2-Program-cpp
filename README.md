@@ -17,3 +17,11 @@ Output should include the second largest value for each array along with all thr
 Each array should be saved to a separate text file.
 
 You will also need to show all three text files which you can do from any text editor when submitting this program. 
+//Official homework decription ends here.
+
+Note from Kelvin:
+
+Two ways to import code if you don't know by now. 
+
+1. "Add > New item" create a new .cpp file and then copy/paste the code itself. 
+2. Download the .cpp file and then "Add > Existing Item" and choose the file. 
