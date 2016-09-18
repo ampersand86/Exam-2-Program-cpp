@@ -1,5 +1,4 @@
 # Exam-2-Program-cpp
-just the cpp and readme description
 
 Modify arrtemp.cpp by removing the preassignment of the data for each array and by adding five new function templates.
 
