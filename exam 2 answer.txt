@@ -1,0 +1,29 @@
+Exam 2 answer
+
+1) template<class T>
+
+T findsmall(T *a, const int n)
+	
+	{ 
+		T small = a[0]
+		for (int i = 1, i < n, i++)
+			if (a[i < small)
+				small = a[i];
+				return small;
+}
+
+2. ifstream infile ("c\\stocks.dat, ios::in);
+	ofstream.outfile ("c\\profits.dat", ios:out)
+	while(infile.getline(name, 30)
+	{
+		infile >> sh >> bp >> cp;	
+		tc = sh*bp;
+		cv = sh*cp;
+		bt = cv - ac;
+		outf.le << name << endl;
+		outfile << *c << " " << cv << " " << pr << endl;
+	infile.ignore(30, 'ln');
+}
+
+infile.close();
+outfile.close();
